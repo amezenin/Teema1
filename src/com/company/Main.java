@@ -43,7 +43,7 @@ public class Main {
             count1++;
 
         }
-        System.out.print(Arrays.deepToString(tabel));
+        System.out.println(Arrays.deepToString(tabel));
 
         // write your code here
     }
