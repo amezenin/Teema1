@@ -43,7 +43,12 @@ public class Main {
             count1++;
 
         }
-        System.out.println(Arrays.deepToString(tabel));
+        int count3 = 0;
+        while (count3 < 10) {
+            System.out.println(Arrays.toString(tabel[count3]));
+            count3++;
+        }
+
 
         // write your code here
     }
